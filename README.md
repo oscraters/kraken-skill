@@ -1,4 +1,4 @@
-# openclaw-kraken
+# kraken-skill
 
 `openclaw-kraken` is a Bash CLI and ClawHub-ready skill for Kraken APIs. The source repo is https://github.com/oscraters/kraken-skill.git and it exposes a registry-driven command surface for agentic use across Spot REST, Futures REST, and Kraken WebSocket workflows.
 
